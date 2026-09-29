@@ -1,5 +1,7 @@
 # SourceDesk
 
+![Project screenshot](docs/screenshot.png)
+
 SourceDesk is a local support assistant demo for AI Apps & Integration work. It searches a small knowledge base, shows source documents, and saves support tickets when the answer is not covered.
 
 ## Run
